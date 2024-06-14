@@ -6,6 +6,8 @@ compartilhar o "como" da criação de IA, mas também instigar
 reflexões sobre o "porquê" e "para quê" dessa empreitada
 tecnológica.
 
+<a href="https://github.com/andreamitsuoka/Ebook---Criando-sua-IA/blob/main/Ebook%20-%20Criando%20sua%20Inteligencia%20Artificial.png" title="View PDF now"> 📕Clique aqui para ler</a>
+
 ## Sumário
 
 - [Sobre](#sobre)
